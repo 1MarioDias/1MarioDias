@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Vue, ExpressJS, Python, MySQL and Music!**
 
-- ✨ Fun fact: **Bartending has been my second career related passion!**
+- ✨ Fun fact: **Mixology has been my second career related passion!**
 
 - 📫 How to reach me **mariodiasfreelancer@gmail.com**
 
