@@ -20,7 +20,7 @@
 - **Cloud & Tools:** Cloudinary / Git / Linux / Docker / CI/CD
 - **Other:** UX Analysis / Figma Prototyping
 
-## 📈 Highlight Project
+## 📈 Highlight Projects
 
 - [SHIFT](https://github.com/1MarioDias/shift-app):  
   Full-stack app for event management in smart cities.  
@@ -28,6 +28,13 @@
   - Vue.js frontend, JWT authentication
   - Cloud media (Cloudinary API), microservices architecture
   - Focused on real-world community problem-solving
+
+- [IRLFaceit](https://github.com/1MarioDias/IRLFaceit):  
+  Microservices-based sports matchmaking platform inspired by FACEIT.  
+  - 4 Core Services + Nginx API Gateway (Docker Swarm)
+  - Node.js/Express + MongoDB + Python + FastAPI (Notification Service)
+  - RabbitMQ async messaging for Notifications, GraphQL Rating Service
+  - Real-world pickup sports lobbies (football, basketball, etc.)
 
 ## 💡 Interests & Fun Facts
 
