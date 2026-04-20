@@ -1,50 +1,51 @@
-
 <p align="center">
   <img src="github-header-image.jpg" alt="Banner" />
 </p>
 
-## 🚀 About Me
+## About Me
 
-- 🏫 Web Development student @ ESMAD, Porto
-- 🎯 Focused on **Full-stack** development (Backend-leaning)
-- 🤖 Recently built: [SHIFT — An Event Management Portal](https://github.com/1MarioDias/shift-app)
-- 🍸 Part-time Bartender @ Porto's busiest place (LMAO)
+- Backend-focused Full-Stack Developer based in Munich, Germany
+- Trainee Full-Stack Developer at 4por4
+- Recently built: [IRLFaceit — Real-World Sports Matchmaking Platform](https://github.com/1MarioDias/IRLFaceit)
+- Part-time Bartender @ Porto's busiest place (LMAO)
 
-## 🛠️ Core Skills
+## Core Skills
 
-- **Languages:** JavaScript (JS) / Node.js / Python / Java
-- **Frontend:** Vue.js / React / Tailwind CSS / HTML5 / CSS3
-- **Backend:** Node.js (Express) / REST APIs / Authentication (JWT)
-- **Databases:** MongoDB / MySQL / Database Design
-- **Testing:** Jest / Selenium
-- **Cloud & Tools:** Cloudinary / Git / Linux / Docker / CI/CD
-- **Other:** UX Analysis / Figma Prototyping
+- **Languages:** JavaScript, Python, Java, PHP
+- **Frontend:** Vue.js, React, React Native, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, Laravel, FastAPI, Spring Boot, GraphQL, RabbitMQ, Nginx, Microservices, REST APIs
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **DevOps:** Docker, Git, CI/CD, Linux
+- **Testing:** Jest, Supertest, Selenium
+- **Tools:** Postman, Figma, Jupyter Notebooks, VS Code
 
-## 📈 Highlight Projects
-
-- [SHIFT](https://github.com/1MarioDias/shift-app):  
-  Full-stack app for event management in smart cities.  
-  - RESTful API built on Node.js (Express) / MySQL backend
-  - Vue.js frontend, JWT authentication
-  - Cloud media (Cloudinary API), microservices architecture
-  - Focused on real-world community problem-solving
+## Highlight Projects
 
 - [IRLFaceit](https://github.com/1MarioDias/IRLFaceit):  
   Microservices-based sports matchmaking platform inspired by FACEIT.  
-  - 4 Core Services + Nginx API Gateway (Docker Swarm)
-  - Node.js/Express + MongoDB + Python + FastAPI (Notification Service)
-  - RabbitMQ async messaging for Notifications, GraphQL Rating Service
-  - Real-world pickup sports lobbies (football, basketball, etc.)
+  - 4 core services plus an Nginx API gateway
+  - 30+ REST endpoints across Node.js services
+  - Rating service exposed through GraphQL
+  - RabbitMQ async messaging, MongoDB per service, Docker Compose orchestration
+  - Built to structure real-world sports lobbies and reduce coordination friction
 
-## 💡 Interests & Fun Facts
+- [SHIFT](https://github.com/1MarioDias/shift-app):  
+  Full-stack event management portal for smart cities.  
+  - 50+ RESTful API endpoints in Node.js/Express
+  - JWT authentication, role-based access control, waiting lists, and image uploads
+  - Vue.js + Tailwind frontend with MySQL/Sequelize backend
+  - Tested with Jest, Supertest, and Selenium
+  - Focused on event discovery, creation, and moderation workflows
 
-- 🍹 Into the mixology field for two years
-- 🤝 Always open for collaboration on community-driven or open source projects
+## Interests & Fun Facts
 
-## 📫 Let’s Connect
+- Music production, design, and digital creation
+- Into the bartending field for three years
+- Open to collaboration on meaningful, community-driven projects
 
-- **Email:** mariodiasfreelancer@gmail.com
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/1mariodias/)  
-- **Location:** Porto, Portugal | Open to remote/onsite roles
+## Let’s Connect
 
----
+- **Email:** [work@mariodias.de](mailto:work@mariodias.de)
+- **LinkedIn:** [linkedin.com/in/1mariodias](https://www.linkedin.com/in/1mariodias/)
+- **Portfolio:** [mariodias.de](https://mariodias.de)
+- **Location:** Munich, Germany
