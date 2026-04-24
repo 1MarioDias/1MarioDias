@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Backend-focused Full-Stack Developer based in Munich, Germany
+- Backend-focused Full-Stack Developer soon-to-be based in Munich, Germany
 - Trainee Full-Stack Developer at 4por4
 - Recently built: [IRLFaceit — Real-World Sports Matchmaking Platform](https://github.com/1MarioDias/IRLFaceit)
 - Part-time Bartender @ Porto's busiest place (LMAO)
